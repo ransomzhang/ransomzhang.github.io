@@ -1,7 +1,7 @@
 个人博客
 =================
 
-外观基于 [DONGChuan](http://dongchuan.github.io) 修改，感谢！
+外观基于 [码志](http://mazhuang.org/)源自[DONGChuan](http://dongchuan.github.io) 修改，感谢！
 
 欢迎 Star 和 Fork。
 
