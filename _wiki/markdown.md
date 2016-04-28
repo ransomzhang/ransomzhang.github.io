@@ -1,6 +1,6 @@
 ---
 layout: wiki
-title: Markdown Cheatsheet
+title: Markdown
 categories: wiki
 description: makrdown cheatsheet
 keywords: markdown, cheatsheet
