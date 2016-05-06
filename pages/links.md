@@ -19,3 +19,8 @@ permalink: /links/
 
 * kindle伴侣 <http://kindlefere.com/>
 * 读远 <http://readcolor.com/>
+
+### 收藏
+
+* 电子书 BookZZ <http://bookzz.org/> (The world`s largest ebook library)
+* 健身 Darebee <http://darebee.com/>
