@@ -17,10 +17,19 @@ permalink: /links/
 
 ### Kindle
 
-* kindle伴侣 <http://kindlefere.com/>
 * 读远 <http://readcolor.com/>
+* 搜书 <https://www.jiumodiary.com/>
+* 扫地僧的橱柜 <https://www.ebooksplan.club>
+
+### 娱乐
+
+* 爱看高清影视 <https://aikhd.com/>
+* NOVIPNOAD <http://www.novipnoad.com/> 
+* 在线音乐下载 <http://yuweining.cn/music/>
 
 ### 收藏
 
-* 电子书 BookZZ <http://bookzz.org/> (The world`s largest ebook library)
 * 健身 Darebee <http://darebee.com/>
+* Window绝赞应用 <https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us/content/zh-CN/>
+* 默沙东诊疗手册 <https://www.msdmanuals.cn/>
+* Latex 在线编辑器 <https://www.mathcha.io/>
